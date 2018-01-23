@@ -10,3 +10,4 @@ Contacts:
 melanie.r.friedrichs@gmail.com 
 blake.marsh@kc.frb.org
 seung.j.lee@frb.gov
+maya.o.shaton@frb.gov
