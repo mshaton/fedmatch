@@ -30,4 +30,3 @@ duplicate_eliminate(data,c('a'))
 
 
 }
-

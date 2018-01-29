@@ -12,4 +12,3 @@ data2
 Some made up data on the top 10 US companies in the Fortune 500. Mock-matched to data1 in examples/match_template.R
 }
 \keyword{datasets}
-

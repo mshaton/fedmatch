@@ -32,4 +32,3 @@ word_frequency(df2[,2])
 
 
 }
-
