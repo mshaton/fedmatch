@@ -28,4 +28,3 @@ calculate weights for comparison variables based on m and u probabilities estima
 See match_template.R in examples folder -- end of the file. 
 
 }
-

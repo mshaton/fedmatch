@@ -15,4 +15,3 @@ Data.frame with common articles
 clean_strings
 }
 \keyword{datasets}
-

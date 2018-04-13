@@ -29,4 +29,3 @@ count_rows(data.frame('id'=c(1,1,1,2,2,3)), data.frame('id'=c(1,1,2,2,3,4)), 'id
 
 
 }
-

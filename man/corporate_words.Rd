@@ -15,4 +15,3 @@ Data.frame with common corporate abbreviations in column 1 and corresponding lon
 clean_strings
 }
 \keyword{datasets}
-

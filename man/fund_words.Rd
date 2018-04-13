@@ -15,4 +15,3 @@ Data.frame with abbreviations common in the names of financial (i.e. mutual) fun
 clean_strings
 }
 \keyword{datasets}
-

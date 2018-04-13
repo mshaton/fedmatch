@@ -12,4 +12,3 @@ State_FIPS
 State FIPS codes
 }
 \keyword{datasets}
-
