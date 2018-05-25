@@ -9,7 +9,7 @@ In order to install the package use the devtools package.
 
 A technical note on the corporate lending market matches that have been completed so far will be published soon. If you use this package for your research, please cite the technical note: 
 
-Cohen, Gregory, Melanie Friedrichs, Kamran Gupta, William Hayes, Seung Jung Lee, Blake Marsh, Nathan Mislang, Maya Shaton, and Martin Sicilian, 2017. "The U.S. Syndicated Loan Market: Matching data," mimeographed.
+Cohen, Gregory, Melanie Friedrichs, Kamran Gupta, William Hayes, Seung Jung Lee, Blake Marsh, Nathan Mislang, Maya Shaton, and Martin Sicilian, 2018. "The U.S. Syndicated Loan Market: Matching data," mimeographed.
 
 Contacts: 
 melanie.r.friedrichs@gmail.com 
