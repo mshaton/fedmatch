@@ -1,4 +1,4 @@
-#File Author: 	Melanie Friedrichs, Board of Governors of the Federal Reserve 
+#File Author: 	Board of Governors of the Federal Reserve 
 #Project: 		fedmatch example	
 #Last edited: 	073117
 #Run Time:		~5 minutes
